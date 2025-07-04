@@ -17,7 +17,7 @@ header {
     color: white;
 }
 section {
-    margin: 2opx auto;
+    margin: 20px auto;
     padding: 20px;
 }
 .wallpaper {
@@ -53,4 +53,7 @@ footer {
 .footer-card {
     background-color: black;
     color: white;
+}
+.wallpaper-link {
+    display: inline-block;
 }
