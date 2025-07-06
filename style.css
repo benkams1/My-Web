@@ -41,6 +41,9 @@ wallpaper-grid {
 .wallpaper-card:hover {
     transform: translateY(-5px);
 }
+.wallpaper-item {
+    display: smartphone;
+}
 footer {
     background-color: black;
     color: white;
@@ -56,4 +59,5 @@ footer {
 }
 .wallpaper-link {
     display: inline-block;
+    text-decoration-color: yellow;
 }
